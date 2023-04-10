@@ -1,0 +1,183 @@
+body{
+   margin: 0;
+   background-image: url(./yy.jpg)
+}
+
+.box{
+    display: flex;
+    border-radius: 10px;
+    border:7px solid tomato;
+    justify-content: center;
+}
+
+.box1{
+    height:150px;
+    width:400px;
+    position: relative;
+    left:500px;
+    font-style:italic;
+    background-color: white;
+    color:rgb(130, 14, 68);
+    text-shadow :1px 1px 5px rgb(171, 49, 112);
+    font-size: 30px;
+    font-weight:bold;
+    box-shadow: 8px 8px  purple;
+    padding-top:10px;
+    text-align: center;
+   
+    
+
+}
+.greenbox{
+    border: 7px solid green;
+    height:550px;
+}
+.boxs{
+height:200px;
+width:300px;
+border: 7px solid tomato;
+border-radius: 10px;
+background-color: white;
+}
+.box2{
+   float: left;
+   clear: left; 
+   margin-bottom: 70px;
+   font-size: 30px;
+    font-weight:bold;
+    text-align: center;
+    color: rgba(8, 0, 22, 0.737);
+    text-shadow: 1px 1px 5px rgb(1, 1, 23);
+    box-shadow: 8px 8px   purple;
+    padding-top: 10px;
+   
+}
+.box3{
+    float: right;
+    position: relative;
+    right:70px;
+    background-image: url(./vegetable.jpg);
+    box-shadow: 8px 8px   purple;
+   
+
+}
+ .box4{
+    float: left;
+    clear: left; 
+    font-size: 26px;
+    font-weight:bold;
+     color: rgba(8, 0, 22, 0.737);
+    text-shadow: 2px 1px 5px rgb(1, 1, 23);
+    box-shadow: 8px 8px   purple;
+   
+ }
+ .box5{
+    float: right;
+    position: relative;
+    right:70px;
+    font-weight:bold;
+     color: rgba(8, 0, 22, 0.737);
+    text-shadow: 1px 1px 5px rgb(1, 1, 23);
+    text-align: center;
+    padding-top: 6px;
+    box-shadow: 8px 8px  purple;
+   
+ }
+  button{
+    border-radius: 20px;
+    background-color: red;
+    color: black;
+  } 
+  h2{
+    color: rgba(8, 0, 22, 0.737);
+    text-shadow: 1px 1px 5px rgb(1, 1, 23);
+  }
+.largebox{
+    height:700px;
+    width:700px;
+    border: 10px solid purple;
+    background-color: green;
+    color: black;
+    font-weight: bold;
+    margin:auto;
+    margin-top: 40px;
+    font-size: 40px;
+   justify-content: center;
+}
+.header{
+    text-align: center;
+    padding-top: 10px;
+}
+.box7{
+    float:left;
+    height:300px;
+    width:300px;
+    background-color:  rgb(238, 238, 71);
+    position:relative;
+    top:50px;
+    left:10px;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    
+
+}
+.box8{
+    float:right;
+    height:300px;
+    width:300px;
+    background-color: rgb(238, 238, 71);
+    position:relative;
+    top:50px;
+    right:10px;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+.box9{
+    height:250px;
+    width:710px;
+    background-color: rgb(238, 238, 71);
+    position: relative;
+    top:80px;
+    float:left;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+p{
+    font-style: italic;
+    font-size: 15px;
+    text-align: center;
+    line-height: 30PX;
+}
+.offerbox{
+    display: flex;
+}
+.offer{
+   
+    height: 100px;
+    width: 600px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    border:7px solid tomato;
+    position: fixed;
+    top:550px;
+    left:400px;
+    color: crimson;
+    font-size: 25px;
+    box-shadow: 8px 8px  purple;
+    text-align: center;
+    padding-top:10px;
+    padding-left: 20px;
+    font-style: italic;
+   
+}
+
+.con1{
+    position: relative;
+    left:100px;
+    text-align: center;
+    padding-top: 5px;
+    font-style: italic;
+}
